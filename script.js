@@ -150,10 +150,7 @@ function showCopyFeedback() {
 document.addEventListener("DOMContentLoaded", function() {
     // 1. Tu lista de invitados autorizados (clave en minúsculas y sin espacios : nombre que aparecerá)
     const invitadosAutorizados = {
-        "carlos": "Carlos Pérez",
-        "maria": "María Gómez",
-        "ana": "Ana Torres",
-        "sebastian": "Sebastián Pachas"
+        "JulioCesar": "Julio César",
         // Agrega aquí a todos tus invitados con el formato "codigo": "Nombre Completo"
     };
 
